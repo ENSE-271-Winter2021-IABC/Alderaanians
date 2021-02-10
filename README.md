@@ -1,7 +1,11 @@
 Group Project
 
 Outline
-https://cdn.discordapp.com/attachments/804023981602635860/806980940722995280/Project_Doc_-_Outline.docx
+https://discord.com/channels/804023981602635857/804023981602635860/809156225920270367
+
+Jot Notes - Meeting Summary
+TBD
+
 
 PowerPoint
 https://discord.com/channels/804023981602635857/804023981602635860/807440953081724979
