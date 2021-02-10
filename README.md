@@ -4,7 +4,7 @@ Outline
 https://discord.com/channels/804023981602635857/804023981602635860/809156225920270367
 
 Jot Notes - Meeting Summary
-TBD
+https://discord.com/channels/804023981602635857/804023981602635860/809159430557925449
 
 
 PowerPoint
