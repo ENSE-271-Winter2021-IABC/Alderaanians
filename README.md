@@ -4,7 +4,6 @@
 
 ## Project Background
 
-**
 This project is to design a new website for IABC Regina. IABC Regina is a chapter of the International Association of Business Communicators (IABC). IABC is an organization comprised of professional communicators who join to develop skills, share resources, take part in events and create connections. Professional communicators are trained writers who are driven by truth and ethics in their releases and publications.
 
 Specifically, for the IABC Regina chapter, their website is in need of a revamp. It is clustered and confusing with too much going on and too little at the same time. Their website is visited by prospective members and existing members of the chapter and should be focused on their needs and wants. 
