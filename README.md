@@ -67,14 +67,14 @@ The current website displays upcoming events and news on the homepage. This is e
 Group Project
 
 Outline
-https://discord.com/channels/804023981602635857/804023981602635860/809156225920270367
+https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians%20-%20Project%20Outline.pdf
 
 Jot Notes - Meeting Summary
-https://discord.com/channels/804023981602635857/804023981602635860/809159430557925449
+https://github.com/WillPeers/ENSE271/blob/main/Activity1/Customer%20Notes.md
 
 
 PowerPoint
-https://discord.com/channels/804023981602635857/804023981602635860/807440953081724979
+https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians.pptx
 
 Empathy Diagram
 https://docs.google.com/drawings/d/1G3OAwxyU7FmqWh9Vm1MUa2k9uglqOXaC_EX4plIDo-U/edit?usp=sharing
