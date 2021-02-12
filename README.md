@@ -10,11 +10,16 @@ Specifically, for the IABC Regina chapter, their website is in need of a revamp.
 
 ## Business Need/Opportunity
 
-The business need and opportunity for the updated IABC Regina website were presented in a presentation given to us by IABC Regina members. During this presentation, Dr. Maciag asked them questions to determine their needs and wants for a rebuilt website. They did not have the technical expertise to know exactly what they want in a website; however, they did provide good starting points.
+IABC Regina's current website is messy and outdated. It is frustrating to use and will deter their already small audience from wanting to use it. Our goal is to change this by creating a sleek, streamlined website using WordPress. 
 
-Their wants for the website were; engagement paths such as vlogs/blogs and social medias, and an aesthetically pleasing design. These wants are both design related problems that cannot be quantified in an easy way. They will require further feedback from the customers after MVPs are presented to determine the exact direction that is wanted.
+The business needs and opportunity for the updated IABC Regina website were presented in a presentation given to us by IABC Regina members. During this presentation, Dr. Maciag asked them questions to determine their needs and wants for a rebuilt website. They did not have the technical expertise to know exactly what they want in a website; however, they did provide good starting points. 
 
-The needs for the website were; the ability to post events and take payment with submission forms, an easy-to-use backend for both maintenance and configuration, a streamlined and simplistic website and website navigation, and an updated career section where jobs are posted. During the presentation, they conveyed that as a reference point, the IABC Saskatoon website was a good example of what they wanted their website to look like.
+Their wants for the website were tough to quantify. We learned about a couple wants which were; engagement paths such as vlogs/blogs and social medias, a login/register system, and an aesthetically pleasing design. These wants are both design related problems that cannot be quantified in an easy way. We received feedback from them about this during our first customer meeting and they solidified that these things should be kept until after the base functionality is completed.
+
+The needs for the website were fairly straightforward. It was clear that simplistic navigation, an easy to use and configure backend, built-in events and payment system, an updated careers/job postings section, and an aesthetically pleasing design were important to them. These will change throughout the term as the requirements are built in meetings. During the presentation, they also conveyed that as a reference point, the IABC Saskatoon website was a good example of what they wanted their website to look like.
+
+During our interview/meeting with them on February 8th, we clarified their needs and wants and presented questions on various topics including security and a payment system. We discussed with them the security and admin hours required to setup events and payment submission in comparison to Eventbrite. It seems to us that Eventbrite is the best alternative going forward as it can even be installed directly on a webpage in WordPress with a plugin.
+
 
 ## **NorthStar & Carryover Customers**
 
