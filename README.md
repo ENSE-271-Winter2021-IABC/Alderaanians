@@ -47,11 +47,13 @@ No other clear assumptions at the moment. Any other assumptions made during the 
 
 ## **Project Constraints**
 
-The main constraints of this project are budget, expertise and IABC content.
+The main constraints of this project are budget, expertise, time and IABC content.
 
 The budget of this website is limited and subscription services or monthly payments from tools used in the design and functionality of the website should be kept to a minimum. The only area that will definitely require a payment is payment processing for events and memberships.
 
 The expertise in our group with building projects for customers and creating websites will act as a constraint on the final project. If we had more expertise in both areas, it would be easier to fulfill both the customers needs and wants, as well as determine what exactly these are. It is still possible to do this with our current skillset, however it will be more of a learning experience and about adapting as we get feedback.
+
+The time that we have for this project is limited. In addition, we are also taking other classes which require the same amount of time and effort. 
 
 The current website displays upcoming events and news on the homepage. This is empty at the moment and is directly linked to the pandemic and a lack of IABC content. A challenge for this project will be building a website that can display content when there is some upcoming while also looking clean and concise when there is not any upcoming content. At the same time, keeping excess webpages and categories related to different categories of information will be important. The current website does not have much content, but has tons of pages as each topic is segmented into its own group. This will have to be remedied and kept in mind.
 
