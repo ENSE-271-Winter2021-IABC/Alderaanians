@@ -8,24 +8,19 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
 
 
 ## ACTIVITY 1 - Knowledge Gathering and Preliminary Design Ideas
-Outline
-https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians%20-%20Project%20Outline.pdf
 
-Jot Notes - Meeting Summary
-https://github.com/WillPeers/ENSE271/blob/main/Activity1/Customer%20Notes.md
+..* [Outline](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians%20-%20Project%20Outline.pdf)
 
+..* [Jot Notes - Meeting Summary](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Customer%20Notes.md)
 
-PowerPoint
-https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians.pptx
+..* [PowerPoint](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians.pptx)
 
-Empathy Diagram
-https://docs.google.com/drawings/d/1G3OAwxyU7FmqWh9Vm1MUa2k9uglqOXaC_EX4plIDo-U/edit?usp=sharing
+..* [Empathy Diagram](https://docs.google.com/drawings/d/1G3OAwxyU7FmqWh9Vm1MUa2k9uglqOXaC_EX4plIDo-U/edit?usp=sharing)
 
-Affinity Diagram
-https://docs.google.com/spreadsheets/d/1gAhIV9ScGBu8lz1HPld2zPeMTV168TnkoKltaLPN7kc/edit?usp=sharing
+..* [Affinity Diagram](https://docs.google.com/spreadsheets/d/1gAhIV9ScGBu8lz1HPld2zPeMTV168TnkoKltaLPN7kc/edit?usp=sharing)
 
-User Story Board
-https://landofooo.storiesonboard.com/m/alderaanians
+..* [User Story Board](https://landofooo.storiesonboard.com/m/alderaanians)
+
 
 ## ACTIVITY 2 - Prototyping, Asset Maps, and Site Maps
 
