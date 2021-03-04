@@ -1,9 +1,6 @@
 ENSE 271 - Members Wilbur Dulce, Kaden Goski, William Peers, 
 ## Alderaanians - IABC Regina Website Rebuild
 
-
-## Project Background
-
 This repository contains documentation and artifacts for our ENSE 271 project where we are using People-Centered Design to design a new website for IABC Regina.
 
 
