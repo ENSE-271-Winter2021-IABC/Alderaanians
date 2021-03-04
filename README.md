@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1gAhIV9ScGBu8lz1HPld2zPeMTV168TnkoKltaLPN
 User Story Board
 https://landofooo.storiesonboard.com/m/alderaanians
 
-## ACTIVITY 2 - Prototyping, Asset Maps and Site Maps
+## ACTIVITY 2 - Prototyping, Asset Maps, and Site Maps
 
 
 
