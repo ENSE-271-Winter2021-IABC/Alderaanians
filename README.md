@@ -3,6 +3,7 @@ ENSE 271 - Members Wilbur Dulce, Kaden Goski, William Peers,
 
 This repository contains documentation and artifacts for our ENSE 271 project where we are using a People-Centered Design process to design a new website for IABC Regina.
 
+* [Asset Inventory](https://docs.google.com/spreadsheets/d/1E2H4F8DSeg6KqpyKOrZi1hsGGwR3ut6YQmBYdp4BhXQ/edit#gid=0)
 
 ## ACTIVITY 1 - Knowledge Gathering and Preliminary Design Ideas
 
