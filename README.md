@@ -26,9 +26,6 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
     * [Affordances Lo-Fi - Wilbur](https://github.com/WillPeers/ENSE271/blob/main/Activity2/LoFi/Wilbur%27s%20Lo-fi%20diagrams.pdf)
     * Constraints Lo-Fi - Will
       * [Login Page](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Lo-Fi/WP-LogIn_LoFi.pdf)
-      * [test](test)
-      * [test](test)
-      * [test](test)
     * [Mobile Home Page - All other pages will be based on other prototypes](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Lo-Fi/LoFi%20Mobile%20HomePage.jpg)
     
   * [Sitemaps](https://github.com/WillPeers/ENSE271/tree/main/Activity2/SiteMap)
