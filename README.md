@@ -3,6 +3,7 @@ ENSE 271 - Members Wilbur Dulce, Kaden Goski, William Peers,
 
 This repository contains documentation and artifacts for our ENSE 271 project where we are using a People-Centered Design process to design a new website for IABC Regina.
 
+
 ## ACTIVITY 1 - Knowledge Gathering and Preliminary Design Ideas
 
   * [Outline](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians%20-%20Project%20Outline.pdf)
@@ -20,8 +21,24 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
 
 ## ACTIVITY 2 - Prototyping, Asset Maps, and Site Maps
 
-* [Asset Inventory](https://docs.google.com/spreadsheets/d/1E2H4F8DSeg6KqpyKOrZi1hsGGwR3ut6YQmBYdp4BhXQ/edit#gid=0)
+  * [Lo-Fi Prototypes](https://github.com/WillPeers/ENSE271/tree/main/Activity2/Lo-Fi)
+    * [Gestalt Lo-Fi - Kaden](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Lo-Fi/LoFi%20Prototypes%20-Gestalt.pdf)
+    * [Affordances Lo-Fi - Wilbur](https://github.com/WillPeers/ENSE271/blob/main/Activity2/LoFi/Wilbur%27s%20Lo-fi%20diagrams.pdf)
+    * Constraints Lo-Fi - Will
+      * []()
+      * []()
+      * []()
+      * []()
+    * [Mobile Home Page - All other pages will be based on other prototypes](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Lo-Fi/LoFi%20Mobile%20HomePage.jpg)
+
+  *[Sitemaps](https://github.com/WillPeers/ENSE271/tree/main/Activity2/SiteMap)
+    * [Kaden's Sitemap](https://github.com/WillPeers/ENSE271/blob/main/Activity2/SiteMap/SiteMap%20-%20Kaden's.pdf)
+    * [Wilbur's Sitemap](https://github.com/WillPeers/ENSE271/blob/main/Activity2/SiteMap/Wilbur's%20sitemap.jpg)
+    * [Will's Sitemap](https://github.com/WillPeers/ENSE271/blob/main/Activity2/SiteMap/SiteMap.PNG)
+
+ *[Asset Inventory Page Overview](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Asset%20Inventory%20IABC%20Regina%20-%20Page_Overview.pdf)
+ *[Asset Inventory Assets]()
 
 
-
-
+  *[Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Alderaanians%20-%20Activity%202.pdf)
+  *[Customer Feedback/Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Customer%20Notes%20%26%20Feedback%20-%20Activity%202.pdf)
