@@ -38,6 +38,7 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
 
   * [Asset Inventory Page Overview](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Asset%20Inventory%20IABC%20Regina%20-%20Page_Overview.pdf)
   * [Asset Inventory Assets]()
+  * [User Story Map](https://github.com/WillPeers/ENSE271/blob/main/Activity2/User%20Story%20Map%20-%20V2.pdf)
 
 
   * [Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Alderaanians%20-%20Activity%202.pdf)
