@@ -25,7 +25,7 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
     * [Gestalt Lo-Fi - Kaden](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Lo-Fi/LoFi%20Prototypes%20-Gestalt.pdf)
     * [Affordances Lo-Fi - Wilbur](https://github.com/WillPeers/ENSE271/blob/main/Activity2/LoFi/Wilbur%27s%20Lo-fi%20diagrams.pdf)
     * Constraints Lo-Fi - Will
-      * [test](test)
+      * [Login Page](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Lo-Fi/WP-LogIn_LoFi.pdf)
       * [test](test)
       * [test](test)
       * [test](test)
