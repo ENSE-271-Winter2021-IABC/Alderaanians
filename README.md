@@ -40,7 +40,7 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
   * [Asset Inventory - Asset Overview](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Asset%20Overview%20-%20Asset%20Inventory.pdf)
   
   * [User Story Map](https://github.com/WillPeers/ENSE271/blob/main/Activity2/User%20Story%20Map%20-%20V2.pdf)
-  * [User Story Map - Live Version](https://landofooo.storiesonboard.com/m/w7y1IJc5BE-RmuayqGqGOQ)
+  * [User Story Map - Live Version](https://landofooo.storiesonboard.com/m/MCwtz0NYJUO-JDdgoOMGaw)
 
 
   * [Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Alderaanians%20-%20Activity%202.pdf)
