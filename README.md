@@ -36,9 +36,9 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
     * [Wilbur's Sitemap](https://github.com/WillPeers/ENSE271/blob/main/Activity2/SiteMap/Wilbur's%20sitemap.jpg)
     * [Will's Sitemap](https://github.com/WillPeers/ENSE271/blob/main/Activity2/SiteMap/SiteMap.PNG)
 
- *[Asset Inventory Page Overview](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Asset%20Inventory%20IABC%20Regina%20-%20Page_Overview.pdf)
- *[Asset Inventory Assets]()
+  * [Asset Inventory Page Overview](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Asset%20Inventory%20IABC%20Regina%20-%20Page_Overview.pdf)
+  * [Asset Inventory Assets]()
 
 
-  *[Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Alderaanians%20-%20Activity%202.pdf)
-  *[Customer Feedback/Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Customer%20Notes%20%26%20Feedback%20-%20Activity%202.pdf)
+  * [Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Alderaanians%20-%20Activity%202.pdf)
+  * [Customer Feedback/Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Customer%20Notes%20%26%20Feedback%20-%20Activity%202.pdf)
