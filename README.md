@@ -3,8 +3,6 @@ ENSE 271 - Members Wilbur Dulce, Kaden Goski, William Peers,
 
 This repository contains documentation and artifacts for our ENSE 271 project where we are using a People-Centered Design process to design a new website for IABC Regina.
 
-* [Asset Inventory](https://docs.google.com/spreadsheets/d/1E2H4F8DSeg6KqpyKOrZi1hsGGwR3ut6YQmBYdp4BhXQ/edit#gid=0)
-
 ## ACTIVITY 1 - Knowledge Gathering and Preliminary Design Ideas
 
   * [Outline](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians%20-%20Project%20Outline.pdf)
@@ -22,7 +20,7 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
 
 ## ACTIVITY 2 - Prototyping, Asset Maps, and Site Maps
 
-
+* [Asset Inventory](https://docs.google.com/spreadsheets/d/1E2H4F8DSeg6KqpyKOrZi1hsGGwR3ut6YQmBYdp4BhXQ/edit#gid=0)
 
 
 
