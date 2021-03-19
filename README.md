@@ -3,21 +3,20 @@ ENSE 271 - Members Wilbur Dulce, Kaden Goski, William Peers,
 
 This repository contains documentation and artifacts for our ENSE 271 project where we are using a People-Centered Design process to design a new website for IABC Regina.
 
+## ACTIVITY 3 - Hi-Fi Prototype
 
-## ACTIVITY 1 - Knowledge Gathering and Preliminary Design Ideas
+ * [Design Ideas Documentation (Gestalt, Affordances, and Constraints)](https://github.com/WillPeers/ENSE271/blob/main/Activity3/HiFi%20-%20Design%20Ideas%20Documentation.docx)
+ * [Hi-Fi Drafts](https://github.com/WillPeers/ENSE271/tree/main/Activity3/Drafts)
+   * [Kaden's Draft](https://github.com/WillPeers/ENSE271/blob/main/Activity3/Drafts/HiFi%20-%20Draft%20-%20Kaden.xd)
+   * [Wilbur's Draft](https://github.com/WillPeers/ENSE271/blob/main/Activity3/Drafts/Hifi%20Draft%20-%20Wilbur.xd)
+   * [Will's Draft](https://github.com/WillPeers/ENSE271/blob/main/Activity3/Drafts/Hifi%20Draft%20-%20Will.xd)
+   * [Merged Draft](https://github.com/WillPeers/ENSE271/blob/main/Activity3/Drafts/HiFi%20Draft%20-%20Merged%20%20Kaden.xd)
+ * [Hi-Fi Merged/Final Revision](https://github.com/WillPeers/ENSE271/blob/main/Activity3/HiFi%20-%20Final%20Rev.xd)
+ * [User Story Map - PDF - Updated Priority of Login/Comments and removed Forum feature]()
+ * [User Story Map - Live](https://landofooo.storiesonboard.com/m/MCwtz0NYJUO-JDdgoOMGaw)
+ * [Customer Feedback Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity3/Customer%20Notes%20%26%20Feedback%20-%20Activity%203.pdf)
 
-  * [Outline](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians%20-%20Project%20Outline.pdf)
-
-  * [Jot Notes - Meeting Summary](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Customer%20Notes.md)
-
-  * [PowerPoint](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians.pptx)
-
-  * [Empathy Diagram](https://docs.google.com/drawings/d/1G3OAwxyU7FmqWh9Vm1MUa2k9uglqOXaC_EX4plIDo-U/edit?usp=sharing)
-
-  * [Affinity Diagram](https://docs.google.com/spreadsheets/d/1gAhIV9ScGBu8lz1HPld2zPeMTV168TnkoKltaLPN7kc/edit?usp=sharing)
-
-  * [User Story Board](https://landofooo.storiesonboard.com/m/alderaanians)
-
+# Past Focus
 
 ## ACTIVITY 2 - Prototyping, Asset Maps, and Site Maps
 
@@ -42,3 +41,22 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
 
   * [Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Alderaanians%20-%20Activity%202.pdf)
   * [Customer Feedback/Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity2/Customer%20Notes%20%26%20Feedback%20-%20Activity%202.pdf)
+
+
+## ACTIVITY 1 - Knowledge Gathering and Preliminary Design Ideas
+
+  * [Outline](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians%20-%20Project%20Outline.pdf)
+
+  * [Jot Notes - Meeting Summary](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Customer%20Notes.md)
+
+  * [PowerPoint](https://github.com/WillPeers/ENSE271/blob/main/Activity1/Alderaanians.pptx)
+
+  * [Empathy Diagram](https://docs.google.com/drawings/d/1G3OAwxyU7FmqWh9Vm1MUa2k9uglqOXaC_EX4plIDo-U/edit?usp=sharing)
+
+  * [Affinity Diagram](https://docs.google.com/spreadsheets/d/1gAhIV9ScGBu8lz1HPld2zPeMTV168TnkoKltaLPN7kc/edit?usp=sharing)
+
+  * [User Story Board](https://landofooo.storiesonboard.com/m/alderaanians)
+
+
+
+
