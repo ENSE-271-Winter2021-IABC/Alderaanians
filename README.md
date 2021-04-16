@@ -4,14 +4,14 @@ ENSE 271 - Members Wilbur Dulce, Kaden Goski, William Peers,
 This repository contains documentation and artifacts for our ENSE 271 project where we are using a People-Centered Design process to design a new website for IABC Regina.
 
 ## ACTIVITY 4 - WordPress and Final Demo
- *[Final Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity4/Final%20Powerpoint.pdf)
- *[WordPress Plugins Used](https://github.com/WillPeers/ENSE271/blob/main/Activity4/WordPress%20Plugins..pdf)
+*[Final Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity4/Final%20Powerpoint.pdf)
+*[WordPress Plugins Used](https://github.com/WillPeers/ENSE271/blob/main/Activity4/WordPress%20Plugins..pdf)
 * [Report/Lessons Learned](https://github.com/WillPeers/ENSE271/blob/main/Activity4/Project%20Report%20Out%20and%20Lessons%20Learned.pdf) 
 * [WordPress Backup Dump - WPVivid](https://github.com/WillPeers/ENSE271/tree/main/Activity4/WPVivid%20Backup)   
- * [Hi-Fi Final Revision](https://github.com/WillPeers/ENSE271/blob/main/Activity4/HiFi%20-%20Updated.xd)
- * [User Story Map - PDF - Final](https://github.com/WillPeers/ENSE271/blob/main/Activity4/User%20Story%20Map%20Final.pdf)
- * [User Story Map - Live](https://landofooo.storiesonboard.com/m/MCwtz0NYJUO-JDdgoOMGaw)
- * [Customer Feedback Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity4/Customer%20Notes%20%26%20Feedback%20-%20Activity%204.pdf)
+* [Hi-Fi Final Revision](https://github.com/WillPeers/ENSE271/blob/main/Activity4/HiFi%20-%20Updated.xd)
+* [User Story Map - PDF - Final](https://github.com/WillPeers/ENSE271/blob/main/Activity4/User%20Story%20Map%20Final.pdf)
+* [User Story Map - Live](https://landofooo.storiesonboard.com/m/MCwtz0NYJUO-JDdgoOMGaw)
+* [Customer Feedback Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity4/Customer%20Notes%20%26%20Feedback%20-%20Activity%204.pdf)
 
 
 # Past Focus
