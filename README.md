@@ -3,6 +3,19 @@ ENSE 271 - Members Wilbur Dulce, Kaden Goski, William Peers,
 
 This repository contains documentation and artifacts for our ENSE 271 project where we are using a People-Centered Design process to design a new website for IABC Regina.
 
+## ACTIVITY 4 - WordPress and Final Demo
+ *[Final Presentation](https://github.com/WillPeers/ENSE271/blob/main/Activity4/Final%20Powerpoint.pdf)
+* [Report/Lessons Learned](https://github.com/WillPeers/ENSE271/tree/main/Activity4/WPVivid%20Backup) 
+* [WordPress Backup Dump - WPVivid](https://github.com/WillPeers/ENSE271/tree/main/Activity4/WPVivid%20Backup)   
+ * [WordPress Backup Dump - WPVivid](https://github.com/WillPeers/ENSE271/tree/main/Activity4/WPVivid%20Backup) 
+ * [Hi-Fi Final Revision](https://github.com/WillPeers/ENSE271/blob/main/Activity4/HiFi%20-%20Updated.xd)
+ * [User Story Map - PDF - Final](https://github.com/WillPeers/ENSE271/blob/main/Activity4/User%20Story%20Map%20Final.pdf)
+ * [User Story Map - Live](https://landofooo.storiesonboard.com/m/MCwtz0NYJUO-JDdgoOMGaw)
+ * [Customer Feedback Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity3/Customer%20Notes%20%26%20Feedback%20-%20Activity%203.pdf)
+
+
+# Past Focus
+
 ## ACTIVITY 3 - Hi-Fi Prototype
 
  * [Design Ideas Documentation (Gestalt, Affordances, and Constraints)](https://github.com/WillPeers/ENSE271/blob/main/Activity3/HiFi%20-%20Design%20Ideas%20Documentation.docx)
@@ -15,8 +28,6 @@ This repository contains documentation and artifacts for our ENSE 271 project wh
  * [User Story Map - PDF - Updated Priority of Login/Comments and removed Forum feature]()
  * [User Story Map - Live](https://landofooo.storiesonboard.com/m/MCwtz0NYJUO-JDdgoOMGaw)
  * [Customer Feedback Notes](https://github.com/WillPeers/ENSE271/blob/main/Activity3/Customer%20Notes%20%26%20Feedback%20-%20Activity%203.pdf)
-
-# Past Focus
 
 ## ACTIVITY 2 - Prototyping, Asset Maps, and Site Maps
 
